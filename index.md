@@ -1,36 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Brett Eaton's GitHub directory
 
-You can use the [editor on GitHub](https://github.com/bceaton/bceaton.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This page is designed to host various ongoing research projects. Most of the material here is in the form of R Notebooks, which present both the code for analysis and some interpretive text. The source code file can be downloaded (see the `code` button at the top of each page), and modified. The underlying idea is to contribute to  Reproducible Research (RR) in the field of geomorphology. People can explore both the ideas and interpretation that I am working on, and explore the code itself. After all, the devil is in the details.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Rethinking channel stability
+My group has recently been focussing on the threshold separating channels in what we might call "dynamic equilibrium" from those that are unstabile, and which experience rapid changes in channel pattern. Our experimental data suggests that the characteristics of sediment transport are differnt during these (brief) periods of instability, and that a negative feedback between mean boundary shear stress and bank erosion makes periods of instability very brief, bringing systems back into what M. Church would classify as a threshold state. To be clear, we are most interested in steep gravel bed rivers with alluvial boundaries, and many of these ideas probably do not apply to labile sand bed streams. Interestingly, the evidence that our collaborators at BGC Enginnering have collected in the field suggests that large floods on fans also behave in much the same way as our laboratory experiments.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bceaton/bceaton.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### The physics of channel stability
+Anyway, the first idea in this theme is that we should probably refine our thinking about the physics of stream channel stability. See this [R Notebook webpage](https://bceaton.github.io/bed_stability_notebook.nb.html) for our initial ideas. Feel free to download the code, and play with the analysis we present. All you need is R Studio (which is free to download). You  may also need the b[ibliography file](https://bceaton.github.io/) if you want to compile the notebook and to include the references that I have placed in there. 
 
 ### Support or Contact
 
